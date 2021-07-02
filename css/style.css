@@ -220,7 +220,7 @@ body {
 }
 
 .heading-secondary:hover {
-  transform: skewX(2deg) skewY(1deg);
+  transform: skewX(0deg) skewY(0deg);
   text-shadow: 1rem 1rem 2rem rgba(0, 0, 0, 0.2);
 }
 
@@ -450,7 +450,7 @@ body {
 .composition__photo--p1 {
   left: 0;
   top: 0;
-  width: 35%;
+  width: 37%;
 }
 
 @media (max-width: 56.25em) {
@@ -1117,7 +1117,7 @@ body {
 .footer__link:hover,
 .footer__link:active {
   box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.4);
-  transform: rotate(5deg) scale(1.3);
+  transform: rotate(0deg) scale(1.3);
 }
 
 .footer__copyright {
