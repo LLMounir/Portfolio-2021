@@ -103,8 +103,8 @@ body {
   -moz-animation-duration: 2.5s;
   -moz-animation-iteration-count: infinite;
   -moz-animation-timing-function: ease-in-out;
-  margin-left: 30px;
-  margin-top: 5px;
+  margin-left: 0px;
+  margin-top: 0px;
 }
 
 @-webkit-keyframes Floatingx {
@@ -571,7 +571,7 @@ body {
 }
 
 .card__picture--1 {
-  background-image: linear-gradient(to right bottom, #838383, #2e2e2e), url(../img/coming-soon.png);
+  background-image: linear-gradient(to right bottom, #838383, #2e2e2e), url(../img/ig-banner.jpeg);
 }
 
 .card__picture--2 {
