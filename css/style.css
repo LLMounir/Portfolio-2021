@@ -549,7 +549,7 @@ body {
 }
 
 .card__side--back-6 {
-  background-image: linear-gradient(to right bottom, #838383, #2e2e2e);
+  background-image: linear-gradient(to right bottom, #50c22e, #326843);
 }
 
 .card:hover .card__side--front {
@@ -579,7 +579,7 @@ body {
 }
 
 .card__picture--3 {
-  background-image: linear-gradient(to right bottom, #838383, #2e2e2e), url(../img/coming-soon.png);
+  background-image: linear-gradient(to right bottom, #838383, #2e2e2e), url(../img/chat-app-banner.png);
 }
 
 .card__picture--4 {
@@ -591,7 +591,7 @@ body {
 }
 
 .card__picture--6 {
-  background-image: linear-gradient(to right bottom, #838383, #2e2e2e), url(../img/coming-soon.png);
+  background-image: linear-gradient(to right bottom, #838383, #2e2e2e), url(../img/spotify-banner.jpg);
 }
 
 .card__heading {
